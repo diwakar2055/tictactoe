@@ -1,0 +1,22 @@
+# Ignore Unity-specific files
+/Library/
+/Temp/
+/Logs/
+/obj/
+/Build/
+/Builds/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
