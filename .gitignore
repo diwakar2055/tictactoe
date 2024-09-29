@@ -1,4 +1,5 @@
 # Ignore Unity-specific files
+Library
 /Library/
 /Temp/
 /Logs/
